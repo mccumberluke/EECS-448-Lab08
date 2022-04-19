@@ -1,0 +1,30 @@
+body{
+    background-color: red;
+
+}
+
+.profile{
+    float: right;
+    width: auto;
+    height: 300px;
+    position: sticky;
+    margin: 20px;
+}
+
+header{
+    font-size: 100px;
+    text-align: center;
+    color:yellow;
+}
+
+.center{
+    display: flex;
+    margin:auto;
+    max-width: 1600px;
+    font-size: 25px;
+    color:yellow;
+}
+
+button{
+    font-size: 25px;
+}
